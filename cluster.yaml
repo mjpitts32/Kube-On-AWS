@@ -62,7 +62,7 @@ apiEndpoints:
   # from worker nodes and external clients. Configure the options
   # below if you'd like kube-aws to create a Route53 record sets/hosted zones
   # for you.  Otherwise the deployer is responsible for making this name routable
-  dnsName: kube-mpitts-us-east.aws.gss-labs.pivotal.io.
+  dnsName: kube-mpitts.us-east.aws.gss-labs.pivotal.io.
 
   # Configuration for the load balancer serving this endpoint
   # Omit all the settings when you want kube-aws not to provision a load balancer for you
