@@ -102,7 +102,7 @@ apiEndpoints:
     # Must be omitted when `id` is specified because kube-aws doesn't deal with the existing ELB by design
     hostedZone:
       # The ID of hosted zone to add the dnsName to.
-      id: us-east.aws.gss-labs.pivotal.io.
+      id: Z1N0A52Z7LGDX5
     
 #    # Network ranges of sources you'd like Kubernetes API accesses to be allowed from, in CIDR notation. Defaults to ["0.0.0.0/0"] which allows any sources.
 #    # Explicitly set to an empty array to completely disable it.
